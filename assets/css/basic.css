@@ -1,0 +1,20 @@
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: unset;
+}
+.cus-btn {
+    padding: 12px 32px;
+    border-radius: 15px;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 140%;
+    transition: all 0.5s ease-in-out;
+    box-shadow: 42px 42px 24px rgba(0, 0, 0, 0.01), 24px 24px 20px rgba(0, 0, 0, 0.03), 11px 11px 15px rgba(0, 0, 0, 0.04), 3px 3px 8px rgba(0, 0, 0, 0.05), 0px 0px 0px rgba(0, 0, 0, 0.05);
+    text-align: center;
+}

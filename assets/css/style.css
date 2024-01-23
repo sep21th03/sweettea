@@ -1,0 +1,23 @@
+.heading {
+  margin-bottom: 48px;
+}
+.text-center {
+  text-align: center !important;
+}
+@media (max-width: 1250px){
+    .heading h2 {
+        font-size: 60px;
+    }
+}
+.heading h2 {
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 120%;
+    letter-spacing: -0.04em;
+    color: #0D0D0D;
+    font-family: "Roboto Serif", serif;
+}
+a.text-center.mouse-two:hover {
+    color: #ec7755;
+}
+
